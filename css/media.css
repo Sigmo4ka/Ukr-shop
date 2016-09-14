@@ -1,0 +1,1051 @@
+@media only screen and (max-width: 1077px) {
+	.wrapper {
+		width: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 960px) {
+	.wrapper {
+		width: 100%;
+	}
+
+	
+	.adresspanel {
+		font-size: 1.2em;
+	}
+		
+		p.adresspanel2 {
+			top: 18px;
+		}
+
+			img.phone {
+				top: -10px;
+			}
+
+			img.heart {
+				position: absolute;
+				top: 12px;
+				left: 210px;/*271px/763px = 0.35517693 not good*/
+			}
+
+	#form {
+			width: 29%;/*290px/940px*/
+			margin-right: 0;
+	}
+
+
+	.menurow2 ul {
+		margin-left: 45px;
+	}
+	.menurow2 li {
+		width: 11.5%; /*116/940  was12*/
+		font-size: 60%;
+	}
+
+	#slider {
+		height: 400px;
+	}
+
+	/*images main*/
+
+	.imgfirstblock {
+		width: 57.12766%;/*537px/940px*/
+		margin-bottom: 0px;
+	}
+
+	.imgfirstblock.two {
+		margin-top: 3px;
+	}
+
+
+	.buttonblock3 {
+	    position: absolute;
+	    bottom: 1.2%;
+	}
+
+
+	#vorotni4ki {
+		width: 41.87234%;/*99%-57.12766*/
+	}
+
+
+	.imgcenterdiv img {
+		width: 31.3829787234%; /*295/940= 31.3829787234%*/
+	}
+
+	.images .imgcenter {
+		margin-left: 2.3404%;
+		margin-right: 2.3404%;
+	}
+
+
+
+	.goods {
+		margin-right: 2.5%;
+		width: 22.659574468%;
+		max-width: 100%;
+	}
+
+	img.goodsitem {
+		width: 100%;
+	}
+
+	.goods.last {
+		margin-right: 0;
+	}
+	
+	
+
+	#footerform input {
+        width: 98%;
+	}
+	
+	#footerbutton {
+        width: 98%;
+	}
+	
+	.vorot#name {
+		left: 92.5%;
+		top: 19.5%;
+    	height: 22.5em;
+    	font-size: 0.7em;
+	}
+
+	#name {
+		top: 21.8%;
+	}
+	
+	#indicator {
+		top: 20.5%;
+	}
+
+}
+/*     /(max-width: 960px)*/
+
+@media only screen and (max-width: 910px) { 
+	.vorot#name {
+		top: 19.0%;
+    	height: 22.5em;
+	}
+
+	#name {
+		top: 22%;;
+	}
+
+	#indicator {
+		top: 20.5%;
+	}
+
+
+	#indicator2 img {
+	    max-width: 100%;
+	    width: 70%;
+	    /* transform: rotate(90deg); */
+	    z-index: 102;
+	    padding-top: 0.3em;
+	}
+
+
+	.colLinks {
+		width: 20%;
+     	margin-right: 10px;
+	}
+
+	.colLinks.two {
+	    width: 16%;
+	    margin-right: 10px;
+    }
+
+    .colLinks.three {
+    	margin-right: 10px;
+    }
+
+	#footerform input {
+    	height: 40px;
+	}
+
+	#footerbutton {
+        top: 52px;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 882px) { 
+	#form {
+			width: 28%;/*290px/940px*/
+	}
+
+	.adresspanel {
+		width: 79%;
+	}
+
+	img.phone {
+		margin: 0 0px;
+	}
+
+	#slider {
+		height: 370px;
+	}
+
+	#name {
+    	top: 21.5%;
+	}
+
+	#indicator {
+    	top: 20%;
+	}
+}
+
+
+@media only screen and (max-width: 843px) { 
+	#form {
+			width: 27%;/*290px/940px*/
+	}
+	
+	input {
+		width: 68%;
+	}
+
+	.adresspanel {
+		width: 77%;
+		font-size: 1.1em;
+	}
+
+	.images .imgcenter {
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+
+	.goods {
+		margin-right: 2.4%;
+	}
+
+	#name {
+    	top: 20.5%;
+    }
+
+    #name p {
+	    font-size: 1.4em;
+	    color: #fff;
+	    padding: 8px 9px;
+	}
+
+	p#verticalp {
+		font-size: 2em;
+	}
+
+	#indicator {
+    	top: 19.0%;
+	}
+
+	.vorot#name {
+    	left: 92.4%;
+	}
+
+}
+
+
+@media only screen and (max-width: 782px) { 
+	.vorot#name p {
+		font-size: 2.2em;
+		
+	}
+
+	.adresspanel {
+		width: 75.5%;
+	}
+		
+		img.heart {
+		    left: 197px;
+		}
+
+	.menurow1 li {
+		width: 11.5%; /*116/940  was12*/
+	}
+
+
+	p.adresspanel2 {
+    	top: 5px;
+    	right: 30px;
+    	font-size: 120%;
+    	width: 32%;
+	}
+
+
+			img.phone {
+				top: 4px;
+				margin-left: 10px;
+			}
+
+	nav.menurow2 a {
+		padding: 12px 3%;
+	}
+
+	#slider {
+		height: 330px;
+	}
+	
+
+	#footerform input {
+		width: 100%;
+	}
+	
+	#footerbutton{
+		width: 100%;
+	}
+
+
+
+	.colLinks.three { 
+		margin-right: 0;
+	}
+
+	.colLinks h4 {
+		margin-top: 15px;
+	}
+
+	#name {
+    	top: 19.5%;
+	}
+
+	#indicator {
+    	top: 18.0%;
+	}
+
+	.vorot#name {
+	    top: 19.0%;
+	    height: 21em;
+	}
+
+	.vorot#name p {
+	    font-size: 2.0em;
+	}
+	
+}
+
+
+
+@media only screen and (max-width: 733px) { 
+	
+	.adresspanel {
+		width: 73%;
+	}
+
+		img.phone {
+			margin: 0 0;
+		}
+
+	.menurow1 li {
+			width: 11%; /*116/940  was12*/
+		}
+	
+	
+
+	.colLinks h4 {
+    	font-size: 102%;
+	}
+
+
+	
+	#footerform input {
+    	width: 83%;
+	}
+
+	#footerbutton {
+	    width: 83%;
+	}
+	
+	#name {
+		top: 18.5%;
+	}
+
+	#indicator {
+    	top: 17.0%;
+    	padding-top: 0.8em;
+	}
+}
+
+
+@media only screen and (max-width: 688px) { 
+	#logo {
+		/*width: 20%;*/
+		margin-right: 0px;
+		margin-top: 0;
+		max-width: 100%;
+	}
+
+	#logo img {
+		/*max-width: 100%;*//*RWD чтобы картинки не выходили за ширину контейнера*/
+		width: 120px;
+
+	}
+
+	.adresspanel {
+		margin: 0 0;
+		left: 120px;
+		width: 80%;
+	}
+
+	.menurow1 li {
+			width: 12.5%; /*116/940  was12*/
+		}
+
+
+	#row2 {
+		margin-bottom: 0;
+	}
+
+		.menurow2 ul {
+	   		margin-left: 15px;
+		}
+
+		.menurow2 li {
+	    	width: 11%;
+	    	font-size: 60%;
+		}
+
+		nav.menurow2 a{
+			padding: 15px 0;
+		}
+
+		button {
+			right: 6px;
+		}
+
+	#slider {
+		height: 290px;
+		}
+
+	.goods {
+    	margin-right: 2%;
+	}
+
+	.social {
+		position: absolute;
+	   right: 48px;
+	   top: 220px;
+	}
+	
+	#name {
+		top: 18.0%;
+	}
+
+
+	#name p {
+    	font-size: 1.1em;
+    	padding: 11px 9px;
+    }
+
+	#indicator {
+    	top: 16%;
+    }
+
+	.vorot#name {
+	    top: 19.0%;
+	    height: 18.5em;
+	}
+
+    .vorot#name p {
+	    font-size: 1.8em;
+	}
+
+	#indicator2 {
+	    left: 91.5%;
+	}
+
+	#indicator2 img {
+    	padding-top: 0.7em;
+	}
+	
+	.vorot#name {
+    	left: 92.3%;
+	}
+
+	
+}
+
+@media only screen and (max-width: 680px) { 
+	.social {
+			position: absolute;
+		   right: 0;
+		   top: 16px;
+		}
+	.social h3 {
+		font-size: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 632px) { 
+	
+	.adresspanel {
+		width: 80%;
+	}
+	
+	.menurow1 li {
+			width: 12%; /*116/940  was12*/
+		}
+
+	.menurow2 ul {
+   		margin-left: 25px;
+	}
+
+	.menurow2 li {
+    	font-size: 50%;
+	}
+
+
+		.adresspanel {
+	    	font-size: 100%;
+		}
+			
+			img.heart {
+				left: 177px;
+			}
+
+		p.adresspanel2 {
+			right: 39px;
+		}
+
+
+		img.phone {
+			margin-left: 0px;
+			float: right;
+		}
+
+
+	#slider {
+		height: 270px;
+	}
+
+	.h1center {
+		max-width: 100%;
+	}
+	
+	.h1center img.predlojenia {
+		width: 100%;
+	}
+
+	/*.h1center img.rukodelia {
+		width: 100%;
+	}*/
+	.buttonblock3 {
+		bottom: 1.5%; 
+	}
+
+
+	#name {
+		top: 8%;
+		
+	}
+	
+	#indicator {
+    	top: 6%;
+    }
+	
+	#indicator2 {
+		top: 10%;
+	}
+
+	.vorot#name {
+    	top: 6%;
+	}
+	
+}
+
+
+@media only screen and (max-width: 555px) {
+	
+	.adresspanel {
+		width: 73%;
+	}
+
+		.adresspanel1 {
+			position: absolute;
+		    left: 15px;
+	    	top: 7px;
+	        width: 30%;
+	        line-height: 20px;
+	    }
+			
+			img.heart {
+				left: 102px;
+    			top: 4px;
+			}
+
+		p.adresspanel2 {
+			font-size: 90%;
+			top: 8px;
+			line-height: 20px;
+		}
+			img.phone {
+				top: 0px;
+			}
+
+
+
+	.menurow1 li {
+		width: 21.5%; /*116/940  was12*/
+		height: 27px;
+		margin-bottom: 1px;
+	}
+		.menurow1 img {
+			display: none;
+		}
+
+		.menurow1 a {
+			padding: 8px 0;
+			margin: 0;
+			text-align: center;
+		}
+
+		p#need555 {
+			display: block;
+		}
+
+
+	.menurow2 ul {
+   		margin-left: 35px;
+	}
+
+		.menurow2 li {
+	    	width: 22%;
+	    	height: 25px;
+	    	margin-bottom: 1px;
+	    	padding: 0px 0;
+	    }
+
+		nav.menurow2 a {
+	        padding: 8px 0;
+	    }
+
+
+		.menurow2 li:nth-child(even) {
+			padding: 0px 0;
+		}
+
+	#nobr {
+		display: none;
+	}
+
+	#row2 input {
+        left: 3px;
+    }
+
+
+	#slider {
+		height: 245px;
+	}
+
+	.images .imgcenter {
+		margin-left: 1.5%;
+		margin-right: 1.5%;
+	}
+
+	.h1center img.rukodelia {
+		width: 70%;
+	}
+
+	.colLinks {
+		width: 25%;
+	}
+			
+		.social {
+			width: 90px;
+			max-width: 100%;
+			
+		}
+
+		.social img {
+			width: 30%;
+			margin: 2px;
+			height: auto;
+		}
+		
+		.colLinks.last h4 {
+			font-size: 90%;
+			margin-top: 10px;
+			margin-bottom: 20px;
+			font-weight: bold;
+		}
+
+	.buttonblock3 {
+	    bottom: 2.2%;
+	}
+
+	.imgfirstblock.two {
+	    margin-top: -2px !important;
+	}
+
+	#name {
+		height: 2em;
+	}
+
+	#name p {
+	    font-size: 1.0em;
+	    padding: 7px 4px;
+	}
+
+	#indicator {
+		height: 2.32em;
+	}
+
+	#indicator img {
+	    margin-top: -0.5em;
+	}
+
+	#indicator2 {
+		padding-top: 0;
+		height: 3em;
+	}
+
+	#indicator2 img {
+	    padding-top: 0.5em;
+	}
+
+	.vorot#name {
+	    height: 16.5em;
+	    font-size: 0.7em;
+	}
+
+	.vorot#name p {
+	    padding: 5px;
+	}
+}
+
+/*  /(max-width: 555px)*/
+
+@media only screen and (max-width: 515px) {
+	#formmaindiv {
+		position: absolute;
+		top: 181px;
+		right: 0;
+	}
+
+	#footerform input {
+		font-size: 70%;
+		padding: 0;
+	}
+}
+
+@media only screen and (max-width: 490px) { 
+	
+	.adresspanel {
+    	width: 72%;
+	}
+
+		p.adresspanel2 {
+			width: 37%;
+		}
+
+	.menurow1 li {
+		width: 20.2%; /*116/940  was12*/
+	}
+
+	#slider {
+		height: 220px;
+	}
+	
+	
+	br#need490 {
+		display: block;
+	}
+	
+	.menurow2 li:nth-child(3) a {
+		padding: 3px;
+	}
+
+	#footerform input {
+		font-size: 70%;
+		padding: 0 15px;
+	}
+	
+
+	#name {
+		width: 25%;
+		left: 32.2%;
+	}
+	.vorot#name {
+    	height: 15em;
+    	left: 92.2%;.vorot#name {
+    	height: 15em;
+	}
+
+	.vorot#name p {
+	    font-size: 1.6em;
+	}
+
+	#indicator2 {
+    	left: 90.8% !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 450px) { 
+	
+	.adresspanel {
+		width: 70%;
+	}
+		
+		img.heart {
+			display: none;
+		}
+	
+		p.adresspanel2 {
+			width: 42%;
+			position: absolute;
+			right: 10px;
+		}
+
+			img.phone {
+				display: none;
+			}
+
+	.menurow1 a {
+		font-size: 80%;
+	}
+
+	.menurow2 ul {
+		margin-left: 15px;
+	}
+
+	.menurow2 li {
+		width: 23%;
+	}
+
+	#slider {
+		height: 200px;
+	}
+
+	.h1center img.rukodelia {
+			width: 70%;
+		}
+
+	.goods {
+		margin-right: 1.5%;
+		width: 47%;
+		margin-bottom: 7px;
+    	
+	}
+
+	.vorot#name {
+    	height: 14em;
+    }
+	.vorot#name p {
+		font-size: 1.3em;
+	}
+
+	#indicator2 {
+	    width: 8.5%;
+	    left: 90.8% !important;
+	}
+
+}
+
+/*    /(max-width: 450px)*/
+
+@media only screen and (max-width: 412px) { 
+
+	#form {
+    	width: 68%; 
+	}
+		input {
+			width: 85%;
+		}
+
+		button {
+		    right: 9px;
+		}
+	
+	.menurow1 ul {
+		margin-left: 15px;
+	}
+
+	.menurow1 li {
+		width: 23%;
+	}
+
+	#columns h4 {
+		font-size: 80%;
+	}
+
+	#columns a {
+		font-size: 80%;
+	}
+
+	#footerp {
+		width: 60%;
+		margin: 5px auto;
+
+	}
+
+
+	#imgdesine{
+		/*position: absolute;*/
+		margin-right: 5px;
+		margin-top: 15px;
+	}
+
+	#columns a {
+	    font-size: 70%;
+	}
+
+	.social h3 {
+	    font-size: 80%;
+	    margin-top: -1px;
+	}
+
+	#footerform input {
+		padding: 0 8px;
+	}
+
+	#name {
+		left: 32%;
+	}
+
+	.vorot#name {
+    	height: 13em;
+    	left: 92.1%;
+    }
+
+}
+
+
+@media only screen and (max-width: 386px) { 
+	.menurow2 li:nth-child(1) a {
+		padding: 3px;
+	}
+}
+
+@media only screen and (max-width: 374px) { 
+	.menurow1 li:nth-child(3) a {
+		padding: 3px;
+	}
+
+	.menurow2 li:nth-child(5) a {
+		padding: 3px;
+	}
+}
+
+
+@media only screen and (max-width: 395px) { 
+	#logo img {
+		width: 40%;
+	}
+
+	.adresspanel {
+		left: 70px;
+		width: 81%;
+	}
+
+	/*.adresspanel1 {
+        left: -154px;
+    }*/
+	
+	p.adresspanel2 {
+        width: 45%;
+    }
+
+	#form {
+    	width: 100%; 
+	}
+
+	.menurow1{
+		width: 100%; /*116/940  was12*/
+	}
+	
+	#slider {
+		height: 170px;
+	}
+
+	.images .imgcenter {
+	    margin-left: 1%;
+	    margin-right: 1%; 
+	}
+
+	div.colLinks.three {
+	    margin-right: 5px;
+	    clear: both;
+	    margin-left: 15px;
+	}
+
+
+	.colLinks.first {
+	    width: 32%; 
+	}
+
+	.colLinks.two {
+	    width: 32%; 
+	}
+
+	.vorot#name {
+    	height: 11em;
+    }
+
+    #indicator2 {
+      height: 2.2em;
+	}
+
+	#name {
+    left: 28%;
+	width: 29%;
+	}
+}
+
+
+/*   /(max-width: 395px)*/
+
+
+@media only screen and (max-width: 330px) {
+	.adresspanel {
+		width: 76%;
+	}
+
+	p.adresspanel1 {
+		font-size: 82%;
+	}
+
+	p.adresspanel2 {
+		right: 0;
+		width: 52%;
+	}
+
+	#slider {
+		height: 150px;
+	}
+
+	.colLinks.two {
+	   clear: both; 
+	   width: 45%;
+	   margin-left: 15px;
+	}
+
+	div.colLinks.three {
+	    position: relative;
+	    right: -190px;
+	    top: -210px;
+	}
+
+	#formmaindiv {
+	    top: 138px;
+	}
+	
+
+	.imgfirstblock.two {
+	    margin-top: -4px !important;
+	}
+	
+} 
+
+
+@media only screen and (max-width: 300px) {
+	#slider {
+		height: 150px;
+	}
+
+} 
